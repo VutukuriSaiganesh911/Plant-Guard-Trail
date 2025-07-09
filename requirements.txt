@@ -1,5 +1,5 @@
-tensorflow
-keras
+tensorflow==2.10.0 # Specifying a compatible version
+keras==2.10.0 # Matching Keras version for compatibility
 numpy
 pandas
 scikit-learn
